@@ -27,13 +27,13 @@ Work experience
 * September - October 2024: Internship at Athena Research Center, Institute of Language and Speech Processing (ILSP).
   * Topic: “Automatic Speech Recognition for Greek Language”
   
-Languages
+Skills
 ======
-* English: C2
-* French: B1
-* Greek: Mother Tongue
+* Languages
+  * English: C2
+  * French: B1
+  * Greek: Mother Tongue
 
-Programming Languages
-======
-* Python, C/C++
+* Programming Languages
+  * Python, C/C++
 
