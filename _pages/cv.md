@@ -7,58 +7,33 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2025 – present: PhD in Statistics and Computer Science 
+University Luigi Bocconi, Milan, Italy. 
 
+* 2018--2024:  BSc & MSc in Electrical and Computer Engineering (5-year joint degree).
+National Technical University of Athens (NTUA), Athens, Greece.
+  * Diploma Thesis: Metric distortion of voting rules with predictions.
+  * Supervisor: Dimitris Fotakis.
+ 
+  
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* December 2024 – July 2025: Research Project at Athena Research Center, Archimedes Unit.
+  * Title: “Advanced AI and optimization techniques for the augmentation and the uptake facilitation of natural disaster prediction and monitoring services”.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September - October 2024: Internship at Athena Research Center, Institute of Language and Speech Processing (ILSP).
+  * Topic: “Automatic Speech Recognition for Greek Language”
+  
+Languages
+======
+* English: C2
+* French: B1
+* Greek: Mother Tongue
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Programming Languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, C/C++
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
