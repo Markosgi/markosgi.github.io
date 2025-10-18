@@ -24,7 +24,7 @@ Work experience
 * December 2024 – July 2025: Research Project at Athena Research Center, Archimedes Unit.
   * Title: “Advanced AI and optimization techniques for the augmentation and the uptake facilitation of natural disaster prediction and monitoring services”.
 
-* September - October 2024: Internship at Athena Research Center, Institute of Language and Speech Processing (ILSP).
+* September - October 2023: Internship at Athena Research Center, Institute of Language and Speech Processing (ILSP).
   * Topic: “Automatic Speech Recognition for Greek Language”
   
 Skills
